@@ -33,7 +33,7 @@ Entre sus funcionalidades están los siguientes métodos:
    
 4. **Llamada a los métodos de la instancia**:
    - Método `descripcion`.
-   - Método `arrancar'.
+   - Método `arrancar`.
    - Método `acelerar`.
    - Método `frenar`.
    - Método `verificar_combustible`.
@@ -43,9 +43,8 @@ Entre sus funcionalidades están los siguientes métodos:
 
 ## Instalación
 
-Instrucciones para instalar y configurar el proyecto.
+Instrucciones para clonar el proyecto.
 
 ```sh
-git clone https://github.com/usuario/proyecto.git
-cd proyecto
-pip install -r requirements.txt
+git clone https://github.com/profesor-ricardo-2024/classCoche.git
+```
